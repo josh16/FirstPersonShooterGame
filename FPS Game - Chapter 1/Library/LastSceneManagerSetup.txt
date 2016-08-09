@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Assets/UFPS/Base/Content/Levels/CleanScene/UFPS_CleanScene.unity
+- path: Assets/Assets/MyGame/Scenes/Chapter 3_1_CreatingGeometry.unity
   isLoaded: 1
   isActive: 1
